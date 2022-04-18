@@ -1,0 +1,50 @@
+[
+   {
+      "id": 0,
+      "title": "Samsung Galaxy Z Flip3",
+      "thumbnail": "https://img.com/0",
+      "price": 789
+   },
+   {
+      "id": 1,
+      "title": "Samsung S22 Ultra",
+      "thumbnail": "https://img.com/1",
+      "price": 999
+   },
+   {
+      "id": 2,
+      "title": "Samsung S21 FE",
+      "thumbnail": "https://img.com/2",
+      "price": 459
+   },
+   {
+      "id": 3,
+      "title": "Samsung Galaxy Z Fold3",
+      "thumbnail": "https://img.com/3",
+      "price": 1200
+   },
+   {
+      "id": 4,
+      "title": "Samsung Galaxy A53",
+      "thumbnail": "https://img.com/4",
+      "price": 329
+   },
+   {
+      "id": 5,
+      "title": "Samsung Galaxy Watch4",
+      "thumbnail": "https://img.com/5",
+      "price": 299
+   },
+   {
+      "id": 6,
+      "title": "PlayStation 4",
+      "thumbnail": "https://img.com/6",
+      "price": "399"
+   },
+   {
+      "id": 7,
+      "title": "Nintendo Switch",
+      "thumbnail": "https://img.com/7",
+      "price": "459"
+   }
+]
