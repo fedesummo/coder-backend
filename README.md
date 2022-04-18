@@ -15,7 +15,7 @@ El cuerpo de la petición debe contener un objeto con los pares clave/valor que 
 *Ej: { title: "...", thumbnail, "...", price: "..." }*
 
 GET `/api/products/:id`  
-Devuelve los datos del producto.
+Devuelve los datos de un producto.
 
 PUT `/api/products/:id`  
 Permite modificar los datos de un producto.  
