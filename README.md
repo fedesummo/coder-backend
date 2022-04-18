@@ -14,6 +14,9 @@ Permite registrar un nuevo producto, devolviendo el ID asignado al mismo.
 El cuerpo de la petición debe contener un objeto con los pares clave/valor que definen al producto.  
 *Ej: { title: "...", thumbnail, "...", price: "..." }*
 
+GET `/api/products/:id`
+Devuelve los datos del producto.
+
 PUT `/api/products/:id`  
 Permite modificar los datos de un producto.  
 El cuerpo de la petición debe contener un objeto con los nuevos pares clave/valor que definirán al producto.  
